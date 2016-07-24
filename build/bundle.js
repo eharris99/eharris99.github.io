@@ -83,7 +83,7 @@
 				return _react2.default.createElement(
 					'div',
 					null,
-					'This is the REACT app!',
+					'Chat Room',
 					_react2.default.createElement(_Chat2.default, null)
 				);
 			}
